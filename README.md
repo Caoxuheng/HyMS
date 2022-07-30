@@ -11,3 +11,6 @@ The code will be published after the article published.
 ## Datasets
 [`CAVE dataset`](https://www1.cs.columbia.edu/CAVE/databases/multispectral/), 
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
+# Note
+For any questions, feel free to email me at caoxuhengcn@gmail.com.
+If you find our work useful in your research, please cite our paper ^.^
