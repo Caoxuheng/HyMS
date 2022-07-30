@@ -7,10 +7,8 @@ The code will be published after the article published.
 **None**  
 # Guidance  
 Add your dataset path in `config.py`  
-run `main.py` to sumulated experment  
-  
-  
-**Running interface**  
+run `main.py` to sumulated experment   
+## Running interface  
 ![Introduce](https://github.com/Caoxuheng/imgs/raw/main/%E5%9B%BE%E7%89%871.png)
 # Requirements  
 ## Environment  
