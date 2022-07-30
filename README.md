@@ -5,5 +5,5 @@ The code will be published after the article published.
 # Algorithm Steps
 ![Introduce](https://github.com/Caoxuheng/imgs/raw/main/%E5%9B%BE%E7%89%871.png)
 ## Requirements
-`Python 3.8  
-`Numpy, `Numba, `Scipy, `Opencv
+`Python 3.8`  
+`Numpy`, `Numba`, `Scipy`, `Opencv`
