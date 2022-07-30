@@ -7,3 +7,6 @@ The code will be published after the article published.
 ## Requirements
 `Python 3.8`  
 `Numpy`, `Numba`, `Scipy`, `Opencv`
+## Datasets
+[CAVE dataset](https://www1.cs.columbia.edu/CAVE/databases/multispectral/)
+[Preprocessed CAVE dataset](https://aistudio.baidu.com/aistudio/datasetdetail/147509)
