@@ -11,7 +11,7 @@ For a better study, we publish an online version based on AI-Studio. You can app
 Add your dataset path in `config.py`  
 run `main.py` to simulated experment   
 ## Running interface  
-![Introduce](https://github.com/Caoxuheng/imgs/blob/main/%E5%9B%BE%E7%89%874.png?raw=true)
+![Introduce](https://github.com/Caoxuheng/imgs/blob/main/%E5%9B%BE%E7%89%873.png)
 # Requirements  
 ## Environment  
 `Python 3.8`  
