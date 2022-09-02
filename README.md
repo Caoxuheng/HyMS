@@ -15,7 +15,8 @@ run `main.py` to simulated experment
 # Requirements  
 ## Environment  
 `Python 3.8`  
-`Numpy`, `Numba`, `Scipy`, `Opencv`
+`Numba`, `Cupy`  
+`Numpy`, `Scipy`, `Opencv`
 ## Datasets
 [`CAVE dataset`](https://www1.cs.columbia.edu/CAVE/databases/multispectral/), 
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
