@@ -5,9 +5,9 @@ The code will be released soon.
 ***The paper has been accepted by Optics Letter***  
 For a better study, we publish an online version based on AI-Studio. You can apply our algorithm on the CAVE dataset without configuring the system environment >>>>[*Online Version*](https://aistudio.baidu.com/aistudio/projectdetail/4418051)<<<<
 # Flowchart
-**None**  
+![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/ol2.png)  
 # Result presentation  
-**None**  
+![Simulate](https://github.com/Caoxuheng/imgs/blob/main/ol23.png)
 # Guidance  
 Add your dataset path in `config.py`  
 run `main.py` to simulated experment   
