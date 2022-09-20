@@ -4,6 +4,8 @@ This is an optimization-based algorithm that fuses hyperspectral and RGB images 
 The code will be released soon.  
 ***The paper has been accepted by Optics Letter***  
 For a better study, we publish an online version based on AI-Studio. You can apply our algorithm on the CAVE dataset without configuring the system environment >>>>[*Online Version*](https://aistudio.baidu.com/aistudio/projectdetail/4418051)<<<<
+# Note
+There are two versions of HSMS. The GPU-based one and CPU-based one. GPU-based methods can complete super-resolution tasks in a short amount of time, but since GPU-based Newton's methods do not take into account that the denominator cannot be zero, this version may fail on some images. The CPU-based one is the stable version.
 # Flowchart
 ![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/ol2.png)  
 # Result presentation  
