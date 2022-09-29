@@ -32,7 +32,7 @@ If you find our work useful in your research, please cite our paper ^.^
 author = {Cao, Xuheng and Lian, Yusheng and Liu, Zilong and Zhou, Han and Bin, Wang and Zhang, Wan and Huang, Beiqing},
 year = {2022},
 month = {09},
-pages = {},
+pages = {5184-5187},
 title = {Hyperspectral Image Super-resolution via Multi-stage Scheme without Employing Spatial Degradation},
 journal = {Optics Letters},
 doi = {10.1364/OL.473020}
