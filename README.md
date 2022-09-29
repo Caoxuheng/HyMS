@@ -25,8 +25,8 @@ run `main.py` to simulated experment
 [`CAVE dataset`](https://www1.cs.columbia.edu/CAVE/databases/multispectral/), 
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
 # Contact
-For any questions, feel free to email me at Xuheng Cao(📧caoxuhengcn@gmail.com).  
-If you find our work useful in your research, please cite our paper ^.^
+For any questions, feel free to email Xuheng Cao(📧caoxuhengcn@gmail.com).  
+If you find our work useful in your research, please cite our paper 🙂
 ```python  
 @article{article,
 author = {Cao, Xuheng and Lian, Yusheng and Liu, Zilong and Zhou, Han and Bin, Wang and Zhang, Wan and Huang, Beiqing},
