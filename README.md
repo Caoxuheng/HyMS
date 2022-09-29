@@ -27,3 +27,13 @@ run `main.py` to simulated experment
 # Note
 For any questions, feel free to email me at caoxuhengcn@gmail.com.  
 If you find our work useful in your research, please cite our paper ^.^
+```python  
+@article{article,
+author = {Cao, Xuheng and Lian, Yusheng and Liu, Zilong and Zhou, Han and Bin, Wang and Zhang, Wan and Huang, Beiqing},
+year = {2022},
+month = {09},
+pages = {},
+title = {Hyperspectral Image Super-resolution via Multi-stage Scheme without Employing Spatial Degradation},
+journal = {Optics Letters},
+doi = {10.1364/OL.473020}
+}
