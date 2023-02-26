@@ -1,9 +1,9 @@
 ![TITLE](https://github.com/Caoxuheng/imgs/blob/main/OL.png)
 # [Hyperspectral Image Super-resolution via Multi-stage Scheme without Employing Spatial Degradation](https://doi.org/10.1364/OL.473020)
-This is an optimization-based algorithm that fuses hyperspectral and RGB images without employing spatial degradation.  For an HSI with the size of 16x16x31, the proposed HSMS can achieve 32x spatial improvement with high accuracy in 2 seconds. The quantitative results outperform the existing optimized-based algorithm and most deep-learning-based algorithms.    
-An online version based on AI-Studio is released. You can apply our algorithm on the CAVE dataset without configuring the system environment >>>>[*Online Version*](https://aistudio.baidu.com/aistudio/projectdetail/4418051)<<<<
+This is a Model-based algorithm for MSI-HSI fusion without employing spatial degradation.  For an HSI with the size of 16x16x31, the proposed HyMS achieve fusion super-resolution in a short time with SOTA performance.    
+An online version based on AI-Studio: >>>>[*Online Version*](https://aistudio.baidu.com/aistudio/projectdetail/4418051)<<<<
 # Note
-There are two versions of HyMS. The GPU-based one and CPU-based one. GPU-based methods can complete super-resolution tasks in a short amount of time, but since GPU-based Newton's methods do not take into account that the denominator cannot be zero, this version may fail on some images. The CPU-based one is the stable version.
+There are two versions of HyMS. The GPU-based one and CPU-based one. GPU-based one may makes mistakes result from a wrong package config. The CPU-based one is the stable version.
 # Flowchart
 ![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/ol2.png)  
 # Abstract
