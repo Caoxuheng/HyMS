@@ -5,7 +5,7 @@ An online version based on AI-Studio is released: >>>>[*Online Version*](https:/
 # Note
 GPU-based HyMS may makes mistakes result from a wrong package config. The CPU-based one is the stable version.
 # Flowchart
-![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/oeuhif.png)  
+![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/ol2.png)  
 # Abstract
 Recently, it has become popular to obtain a high spatial resolution hyperspectral image (HR-HSI) by fusing a low spatial resolution hyperspectral image (LR-HSI) with a high spatial resolution RGB image (HR-RGB). Existing HSI super-resolution methods are designed based on a known spatial degeneration. In practice, it is difficult to obtain correct spatial degradation, which restricts the performance of existing methods. Therefore, we propose a multi-stage scheme without employing the spatial degradation model. The multi-stage scheme consists of three stages: initialization, modification, and refinement. According to the angle similarity between the HR-RGB pixel and LR-HSI spectra, we first initialize a spectrum for each HR-RGB pixel. Then, we propose a polynomial function to modify the initialized spectrum so that the RGB color values of the modified spectrum are the same as the HR-RGB. Finally, the modified HR-HSI is refined by a proposed optimization model, in which a novel, to the best of our knowledge, spectral-spatial total variation (SSTV) regularizer is investigated to keep the spectral and spatial structure of the reconstructed HR-HSI. The experimental results on two public datasets and our real-world images demonstrate our method outperforms eight state-of-the-art existing methods in terms of both reconstruction accuracy and computational efficiency.  
 # Result presentation  
