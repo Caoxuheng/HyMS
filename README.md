@@ -13,7 +13,7 @@ Recently, it has become popular to obtain a high spatial resolution hyperspectra
 ![Real](https://github.com/Caoxuheng/imgs/blob/main/ol2real.png)
 # Guidance  
 Add your dataset path in `config.py`  
-run `main.py` to simulated experment   
+Run `main.py`
 ## Running interface  
 ![Introduce](https://github.com/Caoxuheng/imgs/blob/main/Rins.png)
 # Requirements  
