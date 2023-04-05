@@ -1,7 +1,7 @@
 ![TITLE](https://github.com/Caoxuheng/imgs/blob/main/OL.png)
 # [Hyperspectral Image Super-resolution via Multi-stage Scheme without Employing Spatial Degradation](https://doi.org/10.1364/OL.473020)
 This is a Model-based algorithm for MSI-HSI fusion without employing spatial degradation. HyMS achieves fusion super-resolution in a short time with SOTA performance.  
-An online version based on AI-Studio is released: >>>>[*Online Version (CAVE)*](https://aistudio.baidu.com/aistudio/projectdetail/4418051)/ [*Online Version (Chikusei)*](https://aistudio.baidu.com/aistudio/projectdetail/5884199)<<<<
+An online version based on AI-Studio is released: >>>>[*Online Version (CAVE*](https://aistudio.baidu.com/aistudio/projectdetail/4418051)/ *Chikusei)*](https://aistudio.baidu.com/aistudio/projectdetail/5884199)<<<<
 # Note
 GPU-based HyMS may makes mistakes result from a wrong package config. The CPU-based one is the stable version.
 # Flowchart
